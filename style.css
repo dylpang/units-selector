@@ -13,7 +13,7 @@ body, html {
 
 
 body {
-  background-color: #9DFF85;
+  background-color: #43942F;
 }
 
 .flexParent {
@@ -39,7 +39,7 @@ body {
   transform: rotate(180deg);
 }
 
-.flexParent div + divp:first-child {
+.flexParent div p:first-child {
   text-decoration: underline;
   font-weight: bold;
   transition: transform 1s;
